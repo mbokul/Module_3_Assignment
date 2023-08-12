@@ -1,5 +1,4 @@
 'use strict';
-console.log('Hello world');
 
 /* 
    ? 1) javascript For in loop
